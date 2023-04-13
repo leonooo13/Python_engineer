@@ -4,7 +4,7 @@
 `dict`
 `tuple`
 ## 基础语法
-for循环
+for循环  
 while 循环
 if判断
 加减乘除
